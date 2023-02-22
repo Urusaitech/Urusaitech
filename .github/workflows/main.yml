@@ -45,7 +45,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.WORKFLOW_TOKEN }}
+          github_token: ${{ secrets.snake }}
           branch: master
           force: true
 
@@ -55,4 +55,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          github_token: ${{ secrets.WORKFLOW_TOKEN }}
+          github_token: ${{ secrets.snake }}
