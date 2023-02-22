@@ -10,7 +10,7 @@
   
 👉  [**G-sheeter** :)](https://github.com/Urusaitech/From_GSheets_copy_and_update) — <sub><sup>*Test Task*</sup></sub> Get RUB values from a Google Sheet, convert via CRB API, post and mark outdated to the required sheet.
   
-👉  [**Bread-Cat TG bot** :)](https://github.com/Urusaitech/tg_bread_cat_bot) — <sub><sup>*Test Task*</sup></sub> Detect whether it's a cat or a bread in front of you. The bot uses states system.  
+👉  [**Bread-Cat TG bot**](https://github.com/Urusaitech/tg_bread_cat_bot) — <sub><sup>*Test Task*</sup></sub> Detect whether it's a cat or a bread in front of you. The bot uses states system.  
 
 👉  [**Rand-Int on time**](https://github.com/Urusaitech/randint_on_time) — Generates a random int with a simple GUI. Always the same int if the same time.
   
