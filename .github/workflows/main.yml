@@ -13,8 +13,7 @@ on:
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
   
-permissions:
-  contents: write
+permissions: write-all
 
 # The sequence of runs in this workflow:
 jobs:
