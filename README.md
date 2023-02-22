@@ -17,4 +17,4 @@
 [![](https://img.shields.io/badge/-More_Projects-40c463?style=flat-square&logo=Yandex&logoColor=FFFFFF)](https://github.com/Urusaitech?tab=repositories)
 
 
-[github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+[github contribution grid snake animation](https://raw.githubusercontent.com/urusaitech/urusaitech/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/urusaitech/urusaitech/output/github-contribution-grid-snake.svg#gh-light-mode-only)
