@@ -6,15 +6,24 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+projects+💚)](https://git.io/typing-svg)  
 
-👉  [**Mailer**](https://github.com/Urusaitech/mailer_desk) — Extract emails from Excel, create HTML newsletters, and a few more perks for a content manager
+👉  [**Mailer**](https://github.com/Urusaitech/mailer_desk) — Desktop app to extract emails from Excel, create HTML newsletters, and a few more perks for a content manager
   
 👉  [**G-sheeter** :)](https://github.com/Urusaitech/From_GSheets_copy_and_update) — <sub><sup>*Test Task*</sup></sub> Get RUB values from a Google Sheet, convert via CRB API, post and mark outdated to the required sheet.
   
 👉  [**Bread-Cat TG bot**](https://github.com/Urusaitech/tg_bread_cat_bot) — <sub><sup>*Test Task*</sup></sub> Detect whether it's a cat or a bread in front of you. The bot uses states system.  
 
 👉  [**Rand-Int on time**](https://github.com/Urusaitech/randint_on_time) — Generates a random int with a simple GUI. Always the same int if the same time.
-  
-[![](https://img.shields.io/badge/-More_Projects-40c463?style=flat-square&logo=Yandex&logoColor=FFFFFF)](https://github.com/Urusaitech?tab=repositories)
 
+
+[![](https://img.shields.io/badge/-More_Projects-40c463?style=flat-square&logo=Yandex&logoColor=FFFFFF)](https://github.com/Urusaitech?tab=repositories)  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Scores)](https://git.io/typing-svg)  
+![pngegg](https://user-images.githubusercontent.com/100962655/221301278-65851365-815d-48db-9362-56b9bd8f5e7f.png) _1 950 XP_ on [SQL Academy](https://sql-academy.org/profile/54770)  
+![SoloLearn_logo](https://user-images.githubusercontent.com/100962655/221302206-3d17d8ab-5b8e-4e0a-b1d8-c15bf576002f.png)
+_12 868 XP_ on [SoloLearn](https://www.sololearn.com/profile/23113665)    
+![hackerrank](https://user-images.githubusercontent.com/100962655/221303586-ad8b7077-1a52-4694-9b8d-f8866d1b913a.png)
+_3 stars_ on [HackerRank](https://www.hackerrank.com/certificates/c8ae7fb33f05)  
+![leetcode (1)](https://user-images.githubusercontent.com/100962655/221303987-f8d5d7e3-ca06-4736-8d36-0e992c69082d.png)
+_27 problems_ solved on [LeetCode](https://leetcode.com/urusai_tech/)
 
 [github contribution grid snake animation](https://raw.githubusercontent.com/urusaitech/urusaitech/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/urusaitech/urusaitech/output/github-contribution-grid-snake.svg#gh-light-mode-only)
