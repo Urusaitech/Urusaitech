@@ -6,6 +6,8 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+projects+💚)](https://git.io/typing-svg)  
 
+👉  [**Async HTTP**](https://github.com/Urusaitech/mirrors_checker) — Async/Sync urls availability checker  
+  
 👉  [**Mailer**](https://github.com/Urusaitech/mailer_desk) — Desktop app to extract emails from Excel, create HTML newsletters, and a few more perks for a content manager
   
 👉  [**G-sheeter** :)](https://github.com/Urusaitech/From_GSheets_copy_and_update) — <sub><sup>*Test Task*</sup></sub> Get RUB values from a Google Sheet, convert via CRB API, post and mark outdated to the required sheet.
