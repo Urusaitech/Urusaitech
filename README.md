@@ -24,7 +24,7 @@
 ![SoloLearn_logo](https://user-images.githubusercontent.com/100962655/221302206-3d17d8ab-5b8e-4e0a-b1d8-c15bf576002f.png)
  _12 868 XP_ on [SoloLearn](https://www.sololearn.com/profile/23113665)    
 ![hackerrank](https://user-images.githubusercontent.com/100962655/221303586-ad8b7077-1a52-4694-9b8d-f8866d1b913a.png)
- _4 stars_ on [HackerRank](https://www.hackerrank.com/rotalsnart)  
+ _5 gold stars_ on [HackerRank](https://www.hackerrank.com/rotalsnart)  
 ![leetcode (1)](https://user-images.githubusercontent.com/100962655/221303987-f8d5d7e3-ca06-4736-8d36-0e992c69082d.png)
  _40 problems_ solved on [LeetCode](https://leetcode.com/urusai_tech/)
 
