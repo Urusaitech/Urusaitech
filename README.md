@@ -14,7 +14,7 @@
   
 👉  [**Bread-Cat TG bot**](https://github.com/Urusaitech/tg_bread_cat_bot) — <sub><sup>*Test Task*</sup></sub> Detect whether it's a cat or a bread in front of you. The bot uses states system.  
 
-👉  [**TrustPilot checker**](https://github.com/Urusaitech/trustpilot_updates_checker) — Checks if the are any changes on your TrustPilot reviews page
+👉  [**TrustPilot checker**](https://github.com/Urusaitech/trustpilot_updates_checker) — Checks if there are any changes on your TrustPilot reviews page
 
 
 [![](https://img.shields.io/badge/-More_Projects-40c463?style=flat-square&logo=Yandex&logoColor=FFFFFF)](https://github.com/Urusaitech?tab=repositories)  
