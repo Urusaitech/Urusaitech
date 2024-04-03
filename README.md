@@ -12,7 +12,7 @@
   
 👉  [**G-sheeter** :)](https://github.com/Urusaitech/From_GSheets_copy_and_update) — <sub><sup>*Test Task*</sup></sub> Get RUB values from a Google Sheet, convert via CRB API, post and mark outdated to the required sheet.
   
-👉  [**Bread-Cat TG bot**](https://github.com/Urusaitech/tg_bread_cat_bot) — <sub><sup>*Test Task*</sup></sub> Detect whether it's a cat or a bread in front of you. The bot uses states system.  
+👉  [**Handurus TG bot**](https://github.com/Urusaitech/handurus) — <sub><sup>*In progress*</sup></sub> Helps you spend less time scrolling news.  
 
 👉  [**TrustPilot checker**](https://github.com/Urusaitech/trustpilot_updates_checker) — Checks if there are any changes on your TrustPilot reviews page
 
