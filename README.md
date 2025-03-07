@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20Nick's%20GitHub%20profile!&descAlignY=51&descAlign=62)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urusaitech&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=urusaitech&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=urusaitech&theme=github)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=urusaitech)
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+projects+💚)](https://git.io/typing-svg)  
 
@@ -29,4 +27,3 @@
  _63 problems_ solved on [LeetCode](https://leetcode.com/urusai_tech/)
 
 [github contribution grid snake animation](https://raw.githubusercontent.com/urusaitech/urusaitech/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/urusaitech/urusaitech/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
